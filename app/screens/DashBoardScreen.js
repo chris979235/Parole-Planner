@@ -33,6 +33,7 @@ const randomNumber = () => {
             <Button style={styles.contactButton} title='Countdown for Days Sober'/>
             <Button style={styles.contactButton} title='Goal Tracking'/>
             <Button style={styles.contactButton} title='Journal'/>
+            <Text>hello</Text>
         </ImageBackground>
     )
 }
